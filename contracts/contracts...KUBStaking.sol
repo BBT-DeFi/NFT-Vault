@@ -601,7 +601,7 @@ contract KUBStakingV2 is Ownable {
         rewardPool = _rewardPool;
 
         // 9:30 EST December 27th
-        lastRewardBlock = 1536400;
+        lastRewardBlock = 0;
 
         setDailyReward(_dailyReward);
         accKUBPerShare;
