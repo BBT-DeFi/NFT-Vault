@@ -1,0 +1,7 @@
+{
+  "name": "NFT-Vault",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BBT-DeFi/NFT-Vault.git",
+  "license": "MIT"
+}
