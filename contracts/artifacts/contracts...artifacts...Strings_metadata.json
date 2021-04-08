@@ -1,0 +1,42 @@
+{
+	"compiler": {
+		"version": "0.6.10+commit.00c0fcaf"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/StakingNFT.sol": "Strings"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/StakingNFT.sol": {
+			"keccak256": "0xe99b137ec98a11ca08ce68d88bc6a981446674a55f7505956ccc69f3e4c7d166",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://352acae31a0d00c66eaa4576ddf992aecc15984b1cc9ebba4565f2018f2bc97b",
+				"dweb:/ipfs/QmUtErbpDYkFjz1zDQMdSPMddcrw4KSQN4q29GaJ1hX1NF"
+			]
+		}
+	},
+	"version": 1
+}
