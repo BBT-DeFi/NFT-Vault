@@ -604,7 +604,7 @@ contract LPStakingV2 is Ownable {
         rewardPool = _rewardPool;
 
         // 9:30 EST December 27th
-        lastRewardBlock = 11536400;
+        lastRewardBlock = 0;
 
         setDailyReward(_dailyReward);
         accKUBPerShare;
